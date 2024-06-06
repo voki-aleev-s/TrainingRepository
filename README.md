@@ -1,1 +1,1 @@
-# TrainingRepositor
+# TrainingRepository
